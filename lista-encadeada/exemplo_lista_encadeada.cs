@@ -17,8 +17,8 @@ namespace ListaEncadeada
 	{
 		private static void Main( string[] args )
 		{
-			Player player1 = new Player("John");
-			Player player2 = new Player("Paul");
+			Player player1 = new Player( "John" );
+			Player player2 = new Player( "Paul" );
 			Player player3 = new Player( "George" );
 			Player player4 = new Player( "Ringo" );
 
