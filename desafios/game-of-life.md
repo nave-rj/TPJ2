@@ -7,6 +7,8 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/e/e5/Gospers_glider_gun.gif)
 
+**[Exemplo de implementação](http://arr.gr/playground/life/)**
+
 Grid (tamanho que quiser) de células que possuem dois estados: aceso ou apagado.
 
 Células podem ser qualquer coisa:
@@ -20,8 +22,6 @@ Os estados podem ser representados da maneira mais conveniente:
 - etc.
 
 **Lembre de ter um estado inicial (algumas células vivas) pra ter o que simular!**
-
-### [Exemplo de implementação](http://arr.gr/playground/life/)
 
 ### Regras
 - Any live cell with fewer than two live neighbours dies, as if caused by underpopulation.
