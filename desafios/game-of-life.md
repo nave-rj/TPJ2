@@ -5,7 +5,7 @@
 
 ## Game of Life
 
-Grid de células que possuem dois estados: aceso ou apagado.
+Grid (tamanho que quiser) de células que possuem dois estados: aceso ou apagado.
 
 Células podem ser qualquer coisa:
 - cubo na unity
