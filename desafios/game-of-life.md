@@ -19,6 +19,8 @@ Os estados podem ser representados da maneira mais conveniente:
 - altura
 - etc.
 
+**Lembre de ter um estado inicial (algumas células vivas) pra ter o que simular!**
+
 ### Regras
 - Any live cell with fewer than two live neighbours dies, as if caused by underpopulation.
 - Any live cell with two or three live neighbours lives on to the next generation.
