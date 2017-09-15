@@ -21,6 +21,8 @@ Os estados podem ser representados da maneira mais conveniente:
 
 **Lembre de ter um estado inicial (algumas células vivas) pra ter o que simular!**
 
+### [Exemplo de implementação](http://arr.gr/playground/life/)
+
 ### Regras
 - Any live cell with fewer than two live neighbours dies, as if caused by underpopulation.
 - Any live cell with two or three live neighbours lives on to the next generation.
