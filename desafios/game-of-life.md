@@ -7,7 +7,7 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/e/e5/Gospers_glider_gun.gif)
 
-**[Exemplo de implementação](http://arr.gr/playground/life/)**
+[Exemplo de implementação](http://arr.gr/playground/life/)
 
 Grid (tamanho que quiser) de células que possuem dois estados: aceso ou apagado.
 
