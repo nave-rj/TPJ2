@@ -5,6 +5,8 @@
 
 ## Game of Life
 
+![](https://upload.wikimedia.org/wikipedia/commons/e/e5/Gospers_glider_gun.gif)
+
 Grid (tamanho que quiser) de células que possuem dois estados: aceso ou apagado.
 
 Células podem ser qualquer coisa:
@@ -28,3 +30,7 @@ Os estados podem ser representados da maneira mais conveniente:
 Em grupo
 
 Se ficar direitin, substitui a menor nota
+
+Enviar para: mlr@cesar.org.br
+
+Assunto: "Desafio 3003 - Game of Life"
