@@ -29,7 +29,7 @@ Os estados podem ser representados da maneira mais conveniente:
 - Any live cell with more than three live neighbours dies, as if by overpopulation.
 - Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.
 
-OBS: cada célula tem **8 vizinhos**.
+Obs: cada célula tem **8 vizinhos**.
 
 ### Extras
 - Velocidade de simulação variável
