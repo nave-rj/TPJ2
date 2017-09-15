@@ -27,6 +27,13 @@ Os estados podem ser representados da maneira mais conveniente:
 - Any live cell with more than three live neighbours dies, as if by overpopulation.
 - Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.
 
+### Extras
+- Velocidade de simulação variável
+- Implementar lógica de tórus (lado esquerdo tá conectado com o direito e cima tá conectado com o de baixo)
+- Poder criar/matar células durante a simulação (clique do mouse)
+- Animação quando as células nascem/morrem
+- Inventar outras regras
+
 ## Logística
 
 Em grupo
