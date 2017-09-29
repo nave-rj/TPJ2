@@ -14,9 +14,20 @@ public class Entry
   public string key;
   public int value;
 }
+
+public class TabelaBehaviour : MonoBehaviour
+{
+  public List<Entry> entries = new List<Entry>();
+  
+  private void Reset()
+  {
+    entries.Add( new Entry { key = "um elemento", value = 17 } );
+    entries.Add( new Entry { key = "outro elemento", value = 43 } );
+  }
+}
 ```
 
-^ Cole essa classe ao lado de sua classe MonoBehaviour
+^ Cole isso no seu script MonoBehaviour
 
 ## Dicas pr0
 
