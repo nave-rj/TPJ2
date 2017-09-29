@@ -2,7 +2,8 @@
 
 ## Editor de Tabela
 
-Crie um custom editor (dentro de uma pasta "Editor" na Unity) de um MonoBehaviour que contém uma * tabela.
+Crie um custom editor (dentro de uma pasta "Editor" na Unity) de um MonoBehaviour que contém uma *tabela.
+O editor deve desenhar cada um dos elementos (Entry) do array por linha
 
 *A tabela é, na verdade, um List<Entry>:
 
