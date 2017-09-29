@@ -37,7 +37,10 @@ Você provavelmente vai usar o EditorGUILayout.IntField
 v = EditorGUILayout.IntField( "label", v );
 ```
 
-## EXTRAS
+## Referências
+- [Editor](https://docs.unity3d.com/ScriptReference/Editor.html)
+
+## Extras
 - Fazer botão de adicionar elemento (Entry)
 - Fazer botão de remover elemento (Entry)
 
