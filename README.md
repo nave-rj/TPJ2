@@ -1,4 +1,4 @@
-# TPJ2-3003-2017
+# github.com/matheuslessarodrigues/TPJ2
 Códigos da turma de TPJ1 3003 do ano de 2017
 
 ## Avaliações
